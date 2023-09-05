@@ -7,17 +7,21 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 http://103.61.73.220:8000/play/a04d
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latestcb=20180531123424",Movies Now
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=156022&extension=m3u8&play_token=xdbt7BgLik
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424",Movies Now
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=156022&extension=m3u8&play_token=xdbt7BgLik
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN Plus
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN Plus https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", DUNIA SINEMA HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", Dunia Sinema
+http://hotz.vip:2082/ejumjom/ejumjom/45
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 1
 http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
